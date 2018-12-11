@@ -4,7 +4,6 @@
 #define LOWER 0
 #define STEP 20
 
-
 int main()
 {
   printf("------------------------\n");
